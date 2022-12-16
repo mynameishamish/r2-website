@@ -1,7 +1,7 @@
 var swiper = new Swiper(".imgSwiper", {
     slidesPerView: 4,
     spaceBetween: 0,
-    slidesPerGroup: 3,
+    slidesPerGroup: 5,
     autoplay: {
       delay: 2000, 
     },
@@ -17,7 +17,7 @@ var swiper = new Swiper(".imgSwiper", {
 var swiper = new Swiper(".logoSwiper", {
     slidesPerView: 5,
     spaceBetween: 50,
-    slidesPerGroup: 3,
+    slidesPerGroup: 5,
     autoplay: {
       delay: 2000, 
     },
